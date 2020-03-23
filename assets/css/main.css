@@ -551,7 +551,7 @@ h6 small {
 h2,
 h3,
 .c-number {
-    font-size: 1.2rem;
+    font-size: 1.1rem;
     line-height: 1.45;
     text-transform: uppercase;
 }
@@ -2429,4 +2429,9 @@ img[height] {
 
 .darkmode-toggle-container .slider.round:before {
     border-radius: 50%;
+}
+
+.about-me-section > p {
+    margin-bottom: 9px;
+    font-size: 16px;
 }
