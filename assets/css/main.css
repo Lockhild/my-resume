@@ -2372,13 +2372,13 @@ img[height] {
   height: 28px;
 }
 
-.darkmode-toggle-container .switch::after {
+/* .darkmode-toggle-container .switch::after {
   content: 'Dark mode';
   position: absolute;
   left: -80px;
   font-size: 15px;
   font-weight: 300;
-}
+} */
 
 .darkmode-toggle-container .switch input {
   opacity: 0;
